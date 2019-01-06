@@ -1,4 +1,4 @@
-# texteditor
+# Text Editor
 Text Editor (Like Windows Notepad)
 Version: 1.0.0
 Author: Hanada
